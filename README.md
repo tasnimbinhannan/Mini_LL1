@@ -28,3 +28,4 @@ A single C program that tokenizes and parses a small teaching language using a h
 ## Notes
 - Statement terminator is `..` (not `;`).
 - Only the tokens in the DFA are recognized; features like strings, minus, or multi-argument calls are not supported.
+------------------------------------------------------------------------
